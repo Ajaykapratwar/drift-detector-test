@@ -13,4 +13,4 @@ Retrieves a user by their ID.
 ```http
 GET /users/{id}/new
 
-POST /users
+POST /users/1
