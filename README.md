@@ -1,11 +1,14 @@
 # Drift Detector Test
 
-This project provides a user API.
+A simple test project used to validate the Codebase Drift Detector.
 
 ## API
 
+### Get User
+
+Retrieves a user by their ID.
+
+**Endpoint:**
+
+```http
 GET /users/{id}
-
-POST /users
-
-Returns a user by ID.
