@@ -11,6 +11,6 @@ Retrieves a user by their ID.
 **Endpoint:**
 
 ```http
-GET /users/{id}/new
+GET /users/{id}/
 
 POST /users
