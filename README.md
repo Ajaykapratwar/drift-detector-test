@@ -14,3 +14,5 @@ Retrieves a user by their ID.
 GET /users/{id}/
 
 POST /users
+
+GET /listall
