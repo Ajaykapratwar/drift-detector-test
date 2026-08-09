@@ -6,4 +6,6 @@ This project provides a user API.
 
 GET /users/{id}
 
+POST /users
+
 Returns a user by ID.
