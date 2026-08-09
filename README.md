@@ -14,5 +14,3 @@ Retrieves a user by their ID.
 GET /users/{id}/new
 
 POST /users
-
-GET /users/{id}
